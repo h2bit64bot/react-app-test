@@ -1,8 +1,8 @@
-# React app test for BandLab
+# Cakewalk app
 
 # Start the app:
-1. npm install
-2. npm start
+1. npm install cakewalk
+2. npm start cakewalk
 
 # Build the app
 1. npm run build
